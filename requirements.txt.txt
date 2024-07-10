@@ -1,0 +1,5 @@
+pdfminer.six==20201018
+PyPDF2==1.26.0
+pandas==1.3.5
+numpy==1.21.4
+jsonschema==4.4.0

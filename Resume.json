@@ -1,0 +1,123 @@
+{
+    "personal_details": {
+      "name": "Challa Vijaya Sai Pavan Santhosh",
+      "phone_numbers": ["+91-9949891258", "+91-6303571017"],
+      "emails": ["cc9121@srmist.edu.in", "chvspsanthosh@gmail.com"],
+      "address": "6-143/1, Kothagudem Road, Vm Banajar, Khammam, Telangana, India - 507302",
+      "date_of_birth": "17 Sep, 2003",
+      "languages": ["Telugu", "English", "Hindi"],
+      "gender": "Male",
+      "marital_status": "Single"
+    },
+    "education": [
+      {
+        "degree": "B.Tech. - Computer Science & Engineering",
+        "institution": "SRM Institute of Science & Technology, Kattankulathur",
+        "year": "2021 - 2025",
+        "cgpa": "9.38 / 10"
+      },
+      {
+        "level": "12th",
+        "institution": "Narayana Junior College",
+        "year": "2021",
+        "percentage": "95.20 / 100"
+      },
+      {
+        "level": "10th",
+        "institution": "CSR ADDITYA SCHOOL, SATHUPALLY, KHAMMAM",
+        "year": "2019",
+        "percentage": "90.25 / 100"
+      }
+    ],
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Deep Learning",
+      "Opencv",
+      "Data Science",
+      "Tableau",
+      "C",
+      "Power BI",
+      "Excel"
+    ],
+    "awards_and_scholarships": [
+      "SRM Merit Scholarship"
+    ],
+    "internships": [
+      {
+        "title": "Data Analyst",
+        "company": "Twilearn",
+        "duration": "01 Jun, 2023 - 01 Sep, 2023",
+        "key_skills": ["Python", "Visualization", "Tableau"],
+        "description": "At Twilearn, I transformed complex data into beautiful visuals that tell compelling stories. My work with Tableau empowered me to share data-driven findings in a way that was easy to understand and visually appealing."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Camouflogue Animals - Digital Image Processing",
+        "team_size": 3,
+        "duration": "01 Feb, 2024 - 30 May, 2024",
+        "key_skills": ["Machine Learning", "Image Processing"],
+        "project_link": "https://github.com/ChallaPavanSanthosh/Camflogue-Animals---Digital-Image-Processing.git",
+        "description": "This initiative aims to address this challenge by developing a systematic approach for accurately identifying common, camouflaged animals."
+      },
+      {
+        "title": "Google AppStore DataAnalysis - Data Science",
+        "team_size": 1,
+        "duration": "01 Aug, 2023 - 01 Sep, 2023",
+        "key_skills": ["Python", "Data Analytics", "Tableau"],
+        "project_link": "https://github.com/ChallaPavanSanthosh/Google_AppStore_DataAnalysis.git",
+        "description": "Conducted a comprehensive data analysis project focusing on Google Playstore data using Tableau."
+      },
+      {
+        "title": "Resturant Management System - Python",
+        "team_size": 3,
+        "duration": "02 Mar, 2023 - 10 Apr, 2023",
+        "key_skills": ["Python"],
+        "project_link": "https://github.com/ChallaPavanSanthosh/Resturant-Mangement-System.git",
+        "description": "Developed a comprehensive Restaurant Management System for efficient handling of billing and inventory management tasks."
+      },
+      {
+        "title": "Bank-Loan-Report-Analysis_Excel",
+        "key_skills": ["Excel", "Visualization"],
+        "project_link": "https://github.com/ChallaPavanSanthosh/Bank-Loan-Report-Analysis_Excel.git",
+        "description": "Developed interactive Excel dashboards to visualize and analyze key metrics of bank loan data."
+      },
+      {
+        "title": "Lok Sabha Election Results Scraper And Data Analysis",
+        "team_size": 1,
+        "key_skills": ["Data Analysis", "Power BI", "Scripting", "Python", "Visualization", "Visual Studio", "Pandas"],
+        "project_link": "https://github.com/ChallaPavanSanthosh/loksabha.git",
+        "description": "Developed a Python script to extract detailed Lok Sabha election results from the Election Commission of India's website."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "key_skills": ["Python"]
+      },
+      {
+        "title": "Big Data Analysis Deep Dive",
+        "key_skills": ["Data Analysis"]
+      },
+      {
+        "title": "AWS Academy Machine Learning Foundations",
+        "key_skills": ["Machine Learning"]
+      },
+      {
+        "title": "Python For Data Science",
+        "key_skills": ["Data Analysis", "NumPy", "Pandas", "Tableau", "Python"]
+      }
+    ],
+    "co_curricular_activities": [
+      "Futurithon 1.0, Tech Mesh'23 organized by computing technologies association, Department of Computing Technologies, SRMIST KTR",
+      "PSG iTECH HACKFEST-2023 at KLU",
+      "24hrs online hackathon organized by the Design and Innovation Club ,SRMIST",
+      "Standard Chartered Hackathon"
+    ],
+    "extra_curricular_activities": [
+      "IEI Membership"
+    ]
+  }
+  
